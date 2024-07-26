@@ -1,0 +1,17 @@
+{
+  "name": "minecraft-fishing-bot",
+  "version": "1.0.0",
+  "description": "This bot can do fishing on the AFK fishing setup like a real AFK player with left mouse button held",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zippw",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^4.20.1",
+    "mineflayer-auto-eat": "^4.0.0",
+    "mineflayer-web-inventory": "^1.8.5"
+  }
+}
